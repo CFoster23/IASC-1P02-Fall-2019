@@ -1,0 +1,51 @@
+body {background-color: black;}
+
+#Boxes{
+  height: 2000px;
+  width:1600px;
+  margin-left: 125px;
+  margin-right: 250px;
+  padding:10px 0px 0px 0px;
+  background-color: white;}
+
+.purpledotted{
+  width: 1565px;
+  height: 50px;
+  margin: 5px 10px 10px 10px;
+border: 3px dotted Purple;
+padding: 300px 5px 5px 5px;
+}
+
+.blacktext{
+  text-align: center;}
+
+
+.greentext{
+  font-size: 10px;
+  color: green;
+  text-align: center;
+}
+
+
+
+  .orange{color:orange;
+    font-size:34px;
+
+  }
+
+  .highlighted{
+    font-size:30px;
+    vertical-align: super;
+  }
+
+  }
+  #purplelist{
+    color:purple;
+  }
+  .list{
+    list-style-type:none;
+    text-align: right;
+    font-size: 8px;
+    color:purple;
+    padding-right: 10px;
+  }

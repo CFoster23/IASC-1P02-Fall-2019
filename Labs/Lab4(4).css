@@ -1,0 +1,26 @@
+body{background-color: black;}
+#Boxes{
+  height: 150px;
+  width:1200px;
+  margin-left: 75px;
+  margin-top:250px;
+  margin-right: 150px;
+  margin-bottom: 600px;
+  padding:10px 0% 15px 0%;
+  background-color: white;}
+
+  .greenbox{ width: 1170px;
+    height: 90px;
+    margin: 5px 1px 10px 1px;
+  padding: 1px 1% 45px 1%;
+background-color: green;}
+
+.text{border: black 4px dotted;
+  height: 75px;
+  margin: 5px 1px 25px 1px;
+padding: -50px 1% 15px 1%;
+}
+.redtext{color:red;}
+.greentext{color:#39c207;}
+.purpletext{color:purple;
+text-align:left;}
