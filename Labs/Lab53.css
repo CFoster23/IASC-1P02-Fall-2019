@@ -1,0 +1,54 @@
+body {
+  color: black;
+  background-color:black;
+
+}
+#Wrapper {
+  position: fixed;
+  top: 10%;
+  left: 7%;
+  width: 1700px;
+  height: 800px;
+  margin:0 auto;
+  Background-color: white;
+}
+
+
+
+#body {
+  position:relative;
+  top:10px;
+  margin:0 auto;
+  width:1680px;
+  height:790px;
+  background-color: green;
+
+}
+
+.box1{
+
+position:relative;
+top:10px;
+left: 300px;
+  float:left;
+  margin:0 auto;
+height: 300px;
+width: 300px;
+background-color: blue}
+.box2{
+  float:right;
+  position:relative;
+  top:10px;
+  right: 300px;
+  margin:0 auto;
+height: 300px;
+width: 300px;
+background-color: red}
+.box3{
+  position:relative;
+  top:10px;
+  margin:0 auto;
+height: 300px;
+width: 300px;
+clear:both;
+background-color: yellow}

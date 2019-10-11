@@ -1,0 +1,33 @@
+body {background-color: black;}
+
+#Boxes{
+  height: 5000px;
+  width:1750px;
+  padding:1px 50px 1px 50px;
+  background-color: blue;}
+
+  .Greendotted{
+  color: red;
+  font-style: Arial;}
+
+  .blackbox{
+    width: 1500px;
+    height: 500px;
+    margin: 250px 10px 20px 10px;
+  border: 3px solid Black;
+  padding: 5px 5px 5px 5px;
+}
+
+.greenbox{
+  width:1475px;
+  height:50px;
+  margin: 10px 150px 0px 10px;
+  border: 2px dashed Green;
+  padding: 3px 3px 3px 3px;
+}
+.yellowbox{
+width:250px;
+height:400px;
+margin: 20px 2500px 0px 0px;
+border: 2px dashed yellow;
+padding: 3px 3px 3px 3px;}
