@@ -16,7 +16,7 @@ body {
   height: 100px;
   text: bold;
   text-align: center;
-  font-style: Arial;
+  font-style: Times;
   background-color: red;
 }
 
@@ -24,11 +24,11 @@ body {
   float:left;
   background-color: pink;
   position: relative;
+  font-style: Times;
   left:14.26%;
   margin:0 auto;
   font-size: 20px;
   font-weight: bolder;
-    font-style: Arial;
   width: 300px;
   height: 100px;
 }
@@ -36,10 +36,10 @@ body {
   float:left;
   position: relative;
   left:14.26%;
+  font-style: Times;
   margin:0 auto;
   font-size: 20px;
   font-weight: bolder;
-  font-style: Arial;
   width: 700px;
   height: 100px;
   background-color: orange;
@@ -49,8 +49,8 @@ body {
 text-align: left;
 margin:0 auto;
 font-weight: bolder;
+font-style: Times;
 font-size: 20px;
-font-style: Arial;
 height: 650px;
 width: 1000px;
 background-color: blue;
@@ -60,13 +60,12 @@ clear:both;
   width: 1000px;
   margin:0 auto;
   height: 50px;
-    font-style: Arial;
   text-align: left;
+  font-style: Times;
   font-weight:bolder;
   font-size: 20px;
   background-color: yellow;
   position: relative;
   bottom: 20px;
   clear: both;
-
 }
