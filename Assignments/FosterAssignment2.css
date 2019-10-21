@@ -1,0 +1,56 @@
+body {background-color: black}
+h2,h3,h4 {color: yellow;
+font-size: 30px;
+font-style: Impact;
+text-align: center;
+font-weight: bold;
+}
+#Header {
+  margin:0 auto;
+  width: 1400px;
+  height: 100px;
+  text: bold;
+  position: fixed;
+  text-align: center;
+  font-style: Times;
+  background-color: yellow;
+}
+
+#Wrapper {
+  width: 1400px;
+  height: 4000px;
+  margin:0 auto;
+  position: absolute;
+  Background-color: green;
+}
+
+#mainbody {
+text-align: center;
+color: yellow;
+margin:0 auto;
+font-weight: bolder;
+font-style: Times;
+font-size: 20px;
+padding: 100px;
+height: 3750px;
+width: 1000px;
+background-color: blue;
+}
+
+.SanFrancisco{
+  position: center;
+}
+
+#footer {
+  width: 1400px;
+  margin:0 auto;
+  height: 50px;
+  text-align: left;
+  font-style: Times;
+  font-weight:bolder;
+  font-size: 20px;
+  background-color: yellow;
+  position: relative;
+  bottom: 20px;
+  clear: both;
+}

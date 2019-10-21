@@ -1,0 +1,77 @@
+body {background-color: black}
+
+#Header {
+  margin:0 auto;
+  width: 1400px;
+  height: 100px;
+  text: bold;
+  position: fixed;
+  text-align: center;
+  font-style: Times;
+  background-color: yellow;
+}
+
+#Wrapper {
+  width: 1400px;
+  height: 3450px;
+  margin:0 auto;
+  position: relative;
+  Background-color: green;
+}
+
+#mainbody {
+text-align: left;
+color: white;
+margin:0 auto;
+font-weight: bolder;
+font-style: Times;
+font-size: 20px;
+padding: 200px;
+height: 3000px;
+width: 800px;
+background-color: black;
+}
+
+.Giants{
+  text-transform: uppercase;
+  text-align: left;
+  font-size: 18px;
+  font-style: oblique;
+  font: Arial;
+}
+.Orange{
+  color: orange;
+  font-style: italic;
+  font-style: Arial;
+}
+.blue{
+  color: blue;
+  font-style: italic;
+  font-style: Arial;
+  font-size: 18px;
+}
+.maroon{
+  color: purple;
+  font-style: italic;
+  font-style: Arial;
+  font-size: 18px;
+}
+
+.final bold{
+  font-size: 30px;
+  font-weight: bolder;
+  background-color:#FFFF00;
+}
+#footer {
+  width: 1400px;
+  margin:0 auto;
+  height: 50px;
+  text-align: left;
+  font-style: Times;
+  font-weight:bolder;
+  font-size: 20px;
+  background-color: yellow;
+  position: relative;
+  bottom: 20px;
+  clear: both;
+}
